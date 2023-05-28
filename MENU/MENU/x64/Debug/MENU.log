@@ -1,0 +1,3 @@
+﻿  ONTAP.cpp
+D:\CODE C++\MENU\MENU\ONTAP.cpp(110,6): warning C4101: 'choice': unreferenced local variable
+  MENU.vcxproj -> D:\CODE C++\MENU\x64\Debug\MENU.exe
